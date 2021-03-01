@@ -4,10 +4,10 @@ This aims to illustrate the Simultaneous Brightness Contrast Illusions on a gray
 
 ### Results:
 
-- Grayscale Background + Dimgray Rectangles:
+- **Grayscale Background + Dimgray Rectangles:**<br>
   ![grayscale_sbci_dimgray.png](./output/grayscale_sbci_dimgray.png)
 
-- Grayscale Background + Lightgray Rectangles:
+- **Grayscale Background + Lightgray Rectangles:**<br>
   ![grayscale_sbci_lightgray.png](./output/grayscale_sbci_lightgray.png)
 
 ### References:
